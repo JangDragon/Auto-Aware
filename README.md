@@ -102,11 +102,11 @@
 ### 표정 인식
 <details>
 <summary>보기</summary>
-<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video3.gif">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/73cf73a458f5592e232b491ac6452f72d8c72bf8/demo_video/demo_video3.gif">
 </details>
 
-### GPS
+### 졸음표정 인식 및 GPS
 <details>
 <summary>보기</summary>
-<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video4.gif">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/73cf73a458f5592e232b491ac6452f72d8c72bf8/demo_video/demo_video4.gif">
 </details>
