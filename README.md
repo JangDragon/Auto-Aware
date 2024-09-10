@@ -29,16 +29,15 @@
 --------------------
 ### ⚙️ Skills & Tools
   <img src="https://img.shields.io/badge/Github-181717.svg?style=flat&logo=Github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VScode-0854C1.svg?style=flat&logo=VScode&logoColor=white" />&nbsp;
 </br>
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=Css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp;
 </br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MondoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/VScode-0854C1.svg?style=flat&logo=VScode&logoColor=white" />&nbsp;
   
 --------------------
 
