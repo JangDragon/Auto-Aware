@@ -1,4 +1,4 @@
-# 💼 driving care solution(Auto_Aware)
+# 🚗 driving care solution(Auto_Aware)
  <img src="https://github.com/user-attachments/assets/796eabaa-6c89-4958-a389-fa507374dbc7">
 
 ##### 얼굴 및 표정 감지하여 절도범 파악 및 안전한 운행을 도와주는 서비스
@@ -44,53 +44,44 @@
 
 ### AI를 활용한 산재 가능성 판단 웹
 
-<img src="https://github.com/user-attachments/assets/e9a1db89-57df-4cd0-931e-2187a7500ce7">
-<img src="https://github.com/user-attachments/assets/b126b716-c0ae-4d5a-b92a-4d9928b24802">
+<img src="https://github.com/user-attachments/assets/6a8a427c-af23-4a27-a6ab-591dfe789663">
+<img src="https://github.com/user-attachments/assets/a2d80689-ca04-42ee-85e7-192f41cae7d5">
 
-최근 뿐만 아니라 예전부터 산업재해와 산재보험에 관련된 많은 뉴스와 기사가 있었습니다.노동자들에게 필요한 산재보험에 관한 문제는 산재로 인한 상처를 더욱 증가시킬 수 있다고 생각했습니다.
+얼굴인식 기술을 활용하여 오토바이 및 자전거 절도 발생 이후 절도범을 식별하고, 운전자에게 졸음운전 및 전방 주시 태만에 대한 알림 서비스를 제공하는 것을 목표로 합니다.
 
-법은 잘 알고있는 법조계 사람들에게는 쉬울 수 있는 판례문이지만 저희와 같은 일반인들은 판례문을 읽는 것 조차 쉽지않습니다.
+우리나라에서는 차량 절도가 드물지만, 오토바이와 자전거 절도는 빈번하게 발생합니다. 절도가 일어나면 대개 소유물을 회수하기 어렵고, 회수하더라도 원형을 유지하는 경우는 드뭅니다. 또한, 범인이 누구인지 파악하기 어려운 실정입니다.
 
-이러한 불편함을 조금이나마 개선하기 위해서 **AI를 활용한 산재 가능성을 판단**할 수 있으면 좋겠다는 생각으로 sanjae.gg를 기획하게 되었습니다.
-
-sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI를 활용하여 사용자의 상황에 따른 산재 가능성을 판단해 주고 있습니다.
-
-뿐만 아니라 어떤 유사한 판례가 있었는지도 함께 보여주며 사용자에게 도움을 주기 위한 웹사이트입니다.
-
-<br>
-
-## 📌 사용한 공공데이
-1. [근로복지공단_산재보험 판례 판결문 조회 서비스 OpenAPI](https://www.data.go.kr/data/15041878/openapi.do)
+운전 중 졸음이나 전방 주시 태만으로 인한 사고도 지속적으로 발생하고 있습니다. 운전자들은 피로를 느끼면서도 무리하게 운전을 계속하다가 사고로 이어지는 경우가 많습니다. 이를 방지하기 위해 운전자의 상태를 실시간으로 모니터링하고 경고음을 제공하는 시스템을 개발하고자 합니다.
 
 <br>
 
 ## 📌 Process & Role
 #### Overall Process
-###### - 기획(함께), 디자인, 백엔드, 프론트엔트, 데이터 전처리, AI모델, PPT, 발표, 배포
+###### - 기획(함께), 백엔드, 프론트엔트, AI모델, GPS, PPT, 발표
 #### 😊 My Role
-###### - 기획(함께), 데이터 전처리, AI모델, 백엔드
+###### - 기획(함께), 전반적인 도움(오류 개선 등등), 발표
 
 <br>
 
 ## 📌 IA
-<img src="https://github.com/user-attachments/assets/dd05be85-a194-4b68-b086-3447baf93171">
+<img src="https://github.com/user-attachments/assets/5cfacc0e-8c88-41db-a93c-376f07093573">
 
 <br>
 <br>
 
 ## 📌 기능
-1. 판례문 조회
-2. AI 산재 판별
-3. 금액 계산
-4. 노무사 추천
-5. 유사한 판례 확인
+1. 차주 얼굴 식별
+2. GPS
+3. 표정 인식
+4. 절도범 추정 시 알람
+5. 운전자 안전 위반시 알람
 
 <br>
 
 ## 📌 활용방안 및 기대효과
-<img src="https://github.com/user-attachments/assets/cec44276-95ea-4f9c-8f01-cf2dcb475884">
-<img src="https://github.com/user-attachments/assets/2e1bc7af-ef0e-41a6-848c-d7939853612c">
-
+<img src="https://github.com/user-attachments/assets/36b9252d-a3f8-49ef-8ee6-1fc05729c161">
+자동차 제조사와의 파트너쉽이 된다면, 표정인식의 놀라움도 추가하여
+고의사고나 보험사기를 예방 할 수 있습니다.
 <br>
 <br>
 
@@ -99,7 +90,9 @@ sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI�
 ### 메인
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/c1c4b74c-f979-48c1-b372-b71deb356e30">
+<video width="320" height="240" controls>
+  <source src="https://github.com/JangDragon/Auto-Aware/blob/202982718b9b00f140dc7f0ce95891b718214704/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4" type="video/mp4">
+</video>
 </details>
 
 ### 판례문 검색
