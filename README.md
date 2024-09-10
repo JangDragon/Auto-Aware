@@ -91,7 +91,7 @@
 <details>
 <summary>보기</summary>
 <video width="320" height="240" controls>
-  <source src="https://github.com/JangDragon/Auto-Aware/blob/202982718b9b00f140dc7f0ce95891b718214704/시연영상.mp4" type="video/mp4">
+  <source src="https://github.com/JangDragon/Auto-Aware/blob/1a32c12aff3ca58d1b5117cfc9b6962ef35794fd/demo_video.gif" type="video/mp4">
 </video>
 </details>
 
