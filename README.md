@@ -87,20 +87,26 @@
 
 ## 📌 시연영상
  
-### 메인
+### 인물 학습 전
 <details>
 <summary>보기</summary>
-<img src="https://github.com/JangDragon/Auto-Aware/blob/1a32c12aff3ca58d1b5117cfc9b6962ef35794fd/demo_video.gif">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video1.gif">
 </details>
 
-### 판례문 검색
+### 인물 학습 후
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/f791b0ca-41ad-4123-a920-792355a2bf07">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video2.gif">
 </details>
 
-### AI 산재 판별
+### 표정 인식
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/56f0bc96-67ac-40bd-a524-6d86af94c2da">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video3.gif">
+</details>
+
+### GPS
+<details>
+<summary>보기</summary>
+<img src="https://github.com/JangDragon/Auto-Aware/blob/6d0456dec829f7796040a79cc83d297fad44e2b3/demo_video/demo_video4.gif">
 </details>
