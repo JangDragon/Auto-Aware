@@ -90,7 +90,7 @@
 ### 메인
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/f791b0ca-41ad-4123-a920-792355a2bf07">
+<img src="https://github.com/JangDragon/Auto-Aware/blob/1a32c12aff3ca58d1b5117cfc9b6962ef35794fd/demo_video.gif">
 </details>
 
 ### 판례문 검색
